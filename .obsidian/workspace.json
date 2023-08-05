@@ -148,6 +148,17 @@
   },
   "active": "ecd484b51cc20925",
   "lastOpenFiles": [
+    "public/posts/index.xml",
+    "public/posts",
+    "public/index.xml",
+    "public/tags/index.xml",
+    "public/tags",
+    "public/categories/index.xml",
+    "public/categories",
+    "public/sitemap.xml",
+    "public",
+    "resources/_gen/images",
+    "resources/_gen/assets",
     "README.md",
     "assets/images/Pasted image 20230803002945.png",
     "assets/images/Pasted image 20230803002615.png",
@@ -159,9 +170,6 @@
     "assets/images/Pasted image 20230731230731.png",
     "assets/images/Pasted image 20230731230715.png",
     "assets/images/Pasted image 20230731230657.png",
-    "assets/images",
-    "content/posts/WSHRAT/2023-08-03-DEobfuscating-WSHRAT-JS-Script-PT1.md",
-    "content/posts/WSHRAT",
-    "content/posts"
+    "content/posts/WSHRAT/2023-08-03-DEobfuscating-WSHRAT-JS-Script-PT1.md"
   ]
 }

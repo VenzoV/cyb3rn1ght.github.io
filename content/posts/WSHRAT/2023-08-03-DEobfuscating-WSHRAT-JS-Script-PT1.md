@@ -1,9 +1,25 @@
+```yaml
+---
+linktitle: "The Title of the Post"
+title: "The Title of the Post"
+author: "Franz Drollig"
+type: post
+date: 2020-01-09T14:41:55+00:00
+url: /the-title-of-post/
+categories:
+  - Uncategorized
+weight: 10
+
+---
+```
+
 ## Sample Information
 
 | SHA25 | SHA1 | MD5|
 |---------|-------|------|
 |058c764614c8b0b457852a71ab93b559f81abb9e13b7fc2d6c6a4962881bf062 | 550faad818bb76d01333f0469ea6e715feaef2f0 | a4e4a7b64b91de9bf076b0581e0604b9
  
+
 ## First Stage
 
 The script starts by defining the **".proc()"** function and adding it as a method to the String[] type.
