@@ -8,12 +8,12 @@
     <language>en-us</language><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://example.org/posts/wshrat/2023-08-03-deobfuscating-wshrat-js-script-pt1/</link>
+      <link>http://example.org/posts/wshrat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/wshrat/2023-08-03-deobfuscating-wshrat-js-script-pt1/</guid>
-      <description>Sample Information SHA25 SHA1 MD5 058c764614c8b0b457852a71ab93b559f81abb9e13b7fc2d6c6a4962881bf062 550faad818bb76d01333f0469ea6e715feaef2f0 a4e4a7b64b91de9bf076b0581e0604b9 First Stage The script starts by defining the &amp;quot;.proc()&amp;quot; function and adding it as a method to the String[] type. The function, once called will convert content to string and then perform eval(). This is used within the code to launch code saved as string.
-![[Pasted image 20230731230644.png]] The second function defined in the same way is &amp;quot;.nan()&amp;quot;. This code simply inverts the contents of an array of length 3.</description>
+      <guid>http://example.org/posts/wshrat/</guid>
+      <description>--- title: &amp;#34;The Title of the Post&amp;#34; date: 2020-01-09T14:41:55+00:00 --- Sample Information SHA25 SHA1 MD5 058c764614c8b0b457852a71ab93b559f81abb9e13b7fc2d6c6a4962881bf062 550faad818bb76d01333f0469ea6e715feaef2f0 a4e4a7b64b91de9bf076b0581e0604b9 First Stage The script starts by defining the &amp;quot;.proc()&amp;quot; function and adding it as a method to the String[] type. The function, once called will convert content to string and then perform eval(). This is used within the code to launch code saved as string.
+![[Pasted image 20230731230644.png]] The second function defined in the same way is &amp;quot;.</description>
     </item>
     
   </channel>

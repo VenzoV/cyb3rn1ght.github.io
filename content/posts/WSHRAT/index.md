@@ -1,14 +1,7 @@
 ```yaml
 ---
-linktitle: "The Title of the Post"
 title: "The Title of the Post"
-author: "Franz Drollig"
-type: post
 date: 2020-01-09T14:41:55+00:00
-url: /the-title-of-post/
-categories:
-  - Uncategorized
-weight: 10
 
 ---
 ```
